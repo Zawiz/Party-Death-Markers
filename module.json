@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": true,
+    "name": "party-death-markers",
+    "author": "teralove",
+    "description": "Spawn beacons on top of dead party members.",
+    "version": "9/16/2019",
+    "donationUrl": "",
+    "options": {
+        "niceName": "Party Death Markers"
+    },
+    "servers": [" https://raw.githubusercontent.com/Zawiz/Party-Death-Markers/master"],
+    "supportUrl": "https://github.com/Zawiz/Party-Death-Markers/issues"
+}
